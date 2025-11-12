@@ -1,13 +1,18 @@
-# InfraCoders Takımı ve Rolleri
-
+# Project Test Lutfiye Takımı ve Rolleri
 <details open>
 <summary><strong>🇹🇷 Türkçe</strong></summary>
-
 <br>
-
 Bu projedeki güncel ekip üyelerini ve rollerini görmek için lütfen GitHub'ın kendi takım sayfasını ziyaret edin. Oradaki liste **her zaman günceldir**.
+### ➡️ [Güncel Takım Listesi İçin Tıkla](https://github.com/orgs/BKT-DevOps/teams/Project Test Lutfiye)
+---
+## 📊 Takım İstatistikleri
 
-### ➡️ [Güncel Takım Listesi İçin Tıkla](https://github.com/orgs/BKT-DevOps/teams/InfraCoders)
+- **Proje Adı:** project-test-lutfiye
+- **Takım Adı:** Project Test Lutfiye
+- **Proje Lideri:** @lerkush
+- **Toplam Üye Sayısı:** 3
+- **Maintainer Sayısı:** 0
+- **Member Sayısı:** 3
 
 ---
 
@@ -39,7 +44,18 @@ Bu dokümanın amacı ise projedeki rolleri ve sorumlulukları tanımlamaktır.
 
 To see the current members and roles of this project, please visit the official GitHub Team page. The list there is **always up-to-date**.
 
-### ➡️ [Click Here for the Current Team List](https://github.com/orgs/BKT-DevOps/teams/InfraCoders)
+### ➡️ [Click Here for the Current Team List](https://github.com/orgs/BKT-DevOps/teams/Project Test Lutfiye)
+
+---
+
+## 📊 Team Statistics
+
+- **Project Name:** project-test-lutfiye
+- **Team Name:** Project Test Lutfiye
+- **Project Lead:** @lerkush
+- **Total Members:** 3
+- **Maintainers:** 0
+- **Members:** 3
 
 ---
 
